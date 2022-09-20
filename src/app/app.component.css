@@ -1,0 +1,10 @@
+.main-div{
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+}
+
+.main-div h1{
+    color: red;
+    font-size: 70px;
+}
